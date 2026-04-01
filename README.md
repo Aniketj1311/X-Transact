@@ -32,7 +32,7 @@ Before setting up the application, ensure you have the following installed:
 ### **1. Clone the Repository**  
 
 ```bash
-git clone https://github.com/Aaditatgithub/X-Transact.git
+https://github.com/Aniketj1311/X-Transact.git
 cd X-Transact
 ```
 
